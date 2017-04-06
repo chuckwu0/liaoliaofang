@@ -1,6 +1,10 @@
 ## 聊聊房
 
-![1]({{ site.url }}/images/1.png)
+![1]({{ site.url }}/liaoliaofang/images/1.png)
+![2]({{ site.url }}/liaoliaofang/images/2.png)
+![3]({{ site.url }}/liaoliaofang/images/3.png)
+![4]({{ site.url }}/liaoliaofang/images/4.png)
+![5]({{ site.url }}/liaoliaofang/images/5.png)
 
 You can use the [editor on GitHub](https://github.com/chuckwu0/liaoliaofang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
