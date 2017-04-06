@@ -1,4 +1,4 @@
-## 聊聊房
+## 聊聊房 v1.0
 
 ![1]({{ site.url }}/liaoliaofang/images/1.png)
 ![2]({{ site.url }}/liaoliaofang/images/2.png)
