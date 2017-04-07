@@ -5,6 +5,7 @@
 3.支持微博登录
 ```
 ![1]({{ site.url }}/liaoliaofang/images/1.png)
+![6]({{ site.url }}/liaoliaofang/images/6.png)
 ![2]({{ site.url }}/liaoliaofang/images/2.png)
 ![3]({{ site.url }}/liaoliaofang/images/3.png)
 ![4]({{ site.url }}/liaoliaofang/images/4.png)
